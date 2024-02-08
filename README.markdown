@@ -12,6 +12,7 @@ take on [dbext.vim][], improving on it on the following ways:
   - ClickHouse
   - Impala
   - jq
+  - MariaDB
   - MongoDB
   - MySQL
   - Oracle
